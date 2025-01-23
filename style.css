@@ -189,10 +189,10 @@ h2 {
 }
 @media (max-width: 461px) {
   .circle-2 {
-    width: 90px;
-    height: 90px;
-    top: -29px;
-    right: 44px;
+    width: 116px;
+    height: 116px;
+    top: 179px;
+    right: 7px;
   }
   .circle-3 {
     width: 100px;
